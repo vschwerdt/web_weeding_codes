@@ -7,5 +7,7 @@ title: "Schedule"
 ---
 
 # City Hall Wedding
+info here
 
 # Polterabend
+info here

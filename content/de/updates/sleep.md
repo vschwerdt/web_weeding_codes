@@ -6,4 +6,5 @@ tags:
 title: "Where to stay?"
 ---
 
-asdasd
+# info here
+info here

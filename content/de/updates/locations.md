@@ -6,4 +6,14 @@ tags:
 title: "Locations"
 ---
 
-asdasd
+# City Hall wedding
+info here
+
+# How to get to the City Hall?
+info here
+
+# Polterabend post wedding
+info here
+
+# How to get to the Polterabend?
+info here

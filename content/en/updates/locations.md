@@ -7,9 +7,13 @@ title: "Locations"
 ---
 
 # City Hall wedding
+info here
 
-# How to get there to the City Hall?
+# How to get to the City Hall?
+info here
 
 # Polterabend post wedding
+info here
 
-# How to get there to the Polterabend?
+# How to get to the Polterabend?
+info here
