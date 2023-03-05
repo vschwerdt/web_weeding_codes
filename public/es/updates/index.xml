@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>updates on Boda de Vanessa &amp; Jaime</title>
+    <link>https://jralduaveuthey.github.io/web/es/updates/</link>
+    <description>Recent content in updates on Boda de Vanessa &amp; Jaime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jralduaveuthey.github.io/web/es/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Locations</title>
+      <link>https://jralduaveuthey.github.io/web/es/updates/locations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jralduaveuthey.github.io/web/es/updates/locations/</guid>
+      <description>asdasd</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://jralduaveuthey.github.io/web/es/updates/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jralduaveuthey.github.io/web/es/updates/schedule/</guid>
+      <description>asdasdk kasdh kashud</description>
+    </item>
+    
+    <item>
+      <title>Where to stay?</title>
+      <link>https://jralduaveuthey.github.io/web/es/updates/sleep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jralduaveuthey.github.io/web/es/updates/sleep/</guid>
+      <description>asdasd</description>
+    </item>
+    
+  </channel>
+</rss>
