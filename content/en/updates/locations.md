@@ -6,6 +6,10 @@ tags:
 title: "Locations"
 ---
 
-# City Hall weeding
+# City Hall wedding
 
-# How to get there?
+# How to get there to the City Hall?
+
+# Polterabend post wedding
+
+# How to get there to the Polterabend?
