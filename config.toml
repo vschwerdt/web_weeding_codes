@@ -1,5 +1,5 @@
 title = "This is some title"
-baseURL = "https://jralduaveuthey.github.io/web/"
+baseURL = "https://jralduaveuthey.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
@@ -15,7 +15,7 @@ canonifyURLs = true
 
 [languages]
   [languages.en]
-    title = "Vanessa & Jaime's weeding"
+    title = "Vanessa & Jaime's wedding"
     weight = 1
     contentDir = "content/en"
   [languages.de]
