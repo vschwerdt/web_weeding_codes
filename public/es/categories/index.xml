@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Boda de Vanessa &amp; Jaime</title>
-    <link>https://jralduaveuthey.github.io/web/es/categories/</link>
+    <link>https://jralduaveuthey.github.io/es/categories/</link>
     <description>Recent content in Categories on Boda de Vanessa &amp; Jaime</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jralduaveuthey.github.io/web/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jralduaveuthey.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

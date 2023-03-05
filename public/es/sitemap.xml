@@ -2,175 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jralduaveuthey.github.io/web/es/blog/</loc>
+    <loc>https://jralduaveuthey.github.io/es/blog/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jralduaveuthey.github.io/web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/"
-                />
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/updates/</loc>
+    <loc>https://jralduaveuthey.github.io/es/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/updates/"
+                href="https://jralduaveuthey.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/updates/"
+                href="https://jralduaveuthey.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/updates/"
+                href="https://jralduaveuthey.github.io/es/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/categories/</loc>
+    <loc>https://jralduaveuthey.github.io/es/updates/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/categories/"
+                href="https://jralduaveuthey.github.io/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/categories/"
+                href="https://jralduaveuthey.github.io/de/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/categories/"
+                href="https://jralduaveuthey.github.io/es/updates/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/contact/</loc>
+    <loc>https://jralduaveuthey.github.io/es/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jralduaveuthey.github.io/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/contact/"
+                href="https://jralduaveuthey.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/contact/"
+                href="https://jralduaveuthey.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/contact/"
+                href="https://jralduaveuthey.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/updates/locations/</loc>
+    <loc>https://jralduaveuthey.github.io/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/updates/locations/"
+                href="https://jralduaveuthey.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/updates/locations/"
+                href="https://jralduaveuthey.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/updates/locations/"
+                href="https://jralduaveuthey.github.io/es/contact/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/updates/schedule/</loc>
+    <loc>https://jralduaveuthey.github.io/es/updates/locations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/updates/schedule/"
+                href="https://jralduaveuthey.github.io/updates/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/updates/schedule/"
+                href="https://jralduaveuthey.github.io/de/updates/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/updates/schedule/"
+                href="https://jralduaveuthey.github.io/es/updates/locations/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/blog/post-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/blog/post-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/tags/</loc>
+    <loc>https://jralduaveuthey.github.io/es/updates/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/tags/"
+                href="https://jralduaveuthey.github.io/updates/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/tags/"
+                href="https://jralduaveuthey.github.io/de/updates/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/tags/"
+                href="https://jralduaveuthey.github.io/es/updates/schedule/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/web/es/updates/sleep/</loc>
+    <loc>https://jralduaveuthey.github.io/es/blog/post-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jralduaveuthey.github.io/es/blog/post-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jralduaveuthey.github.io/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/web/updates/sleep/"
+                href="https://jralduaveuthey.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/web/de/updates/sleep/"
+                href="https://jralduaveuthey.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/web/es/updates/sleep/"
+                href="https://jralduaveuthey.github.io/es/tags/"
+                />
+  </url><url>
+    <loc>https://jralduaveuthey.github.io/es/updates/sleep/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jralduaveuthey.github.io/updates/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://jralduaveuthey.github.io/de/updates/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jralduaveuthey.github.io/es/updates/sleep/"
                 />
   </url>
 </urlset>
