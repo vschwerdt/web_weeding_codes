@@ -1,5 +1,5 @@
 ---
-title: "Vanessa & Jaime's wedding"
+title: "Vanessa & Jaime's Hochzeit"
 featured_image: '/images/couple_img.jpg'
-description: "We are getting married!"
+description: "Wir heiraten!"
 ---

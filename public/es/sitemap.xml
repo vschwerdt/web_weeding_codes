@@ -2,175 +2,215 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jralduaveuthey.github.io/es/blog/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/blog/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/es/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jralduaveuthey.github.io/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/"
+                href="https://vschwerdt.github.io/web_weeding/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/"
+                href="https://vschwerdt.github.io/web_weeding/es/blog/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/updates/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/updates/"
+                href="https://vschwerdt.github.io/web_weeding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/updates/"
+                href="https://vschwerdt.github.io/web_weeding/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/updates/"
+                href="https://vschwerdt.github.io/web_weeding/es/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/es/categories/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/updates/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/categories/"
+                href="https://vschwerdt.github.io/web_weeding/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/categories/"
+                href="https://vschwerdt.github.io/web_weeding/de/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/categories/"
+                href="https://vschwerdt.github.io/web_weeding/es/updates/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/contact/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/about/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/contact/"
+                href="https://vschwerdt.github.io/web_weeding/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/contact/"
+                href="https://vschwerdt.github.io/web_weeding/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/contact/"
+                href="https://vschwerdt.github.io/web_weeding/es/categories/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/updates/locations/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/updates/locations/"
+                href="https://vschwerdt.github.io/web_weeding/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/updates/locations/"
+                href="https://vschwerdt.github.io/web_weeding/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/updates/locations/"
+                href="https://vschwerdt.github.io/web_weeding/es/contact/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/updates/schedule/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/updates/locations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/updates/schedule/"
+                href="https://vschwerdt.github.io/web_weeding/updates/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/updates/schedule/"
+                href="https://vschwerdt.github.io/web_weeding/de/updates/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/updates/schedule/"
+                href="https://vschwerdt.github.io/web_weeding/es/updates/locations/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/blog/post-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/es/blog/post-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jralduaveuthey.github.io/es/tags/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/updates/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/tags/"
+                href="https://vschwerdt.github.io/web_weeding/updates/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/tags/"
+                href="https://vschwerdt.github.io/web_weeding/de/updates/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/tags/"
+                href="https://vschwerdt.github.io/web_weeding/es/updates/schedule/"
                 />
   </url><url>
-    <loc>https://jralduaveuthey.github.io/es/updates/sleep/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/es/blog/post-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/blog/post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/blog/post-1/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/es/blog/post-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/blog/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/blog/post-2/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jralduaveuthey.github.io/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jralduaveuthey.github.io/de/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jralduaveuthey.github.io/es/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/es/tags/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/es/updates/sleep/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web_weeding/updates/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/updates/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/updates/sleep/"
                 />
   </url>
 </urlset>

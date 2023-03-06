@@ -5,3 +5,5 @@
 7. See also this [clickup info]](https://app.clickup.com/20409459/v/dc/kev3k-8322/kev3k-2122)
 8. Modify what you want but not the content of the "public" folder
 9. After ``.\hugo -D`` move the content of the "public" folder to the root folder of the Github repository where you want to host the website (https://github.com/vschwerdt/web_weeding)
+
+NOTE: everytime you do ``.\hugo -D`` the folder "public" is overwritten so if there are some things that are not being properly deleted you can just delete the folder and run the command again to have a clean state.

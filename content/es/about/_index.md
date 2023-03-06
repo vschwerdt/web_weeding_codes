@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Here some description ..."
-featured_image: ''
+featured_image: '/images/couple_img.jpg'
 ---
 {{< figure src="/images/ice_king.png" title="Here a pic of me..." >}}
 

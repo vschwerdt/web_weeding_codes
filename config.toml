@@ -1,5 +1,5 @@
 title = "This is some title"
-baseURL = "https://jralduaveuthey.github.io/"
+baseURL = "https://vschwerdt.github.io/web_weeding/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
@@ -15,18 +15,17 @@ canonifyURLs = true
 
 [languages]
   [languages.en]
-    title = "Vanessa & Jaime's wedding"
+    title = "V&J"
     weight = 1
     contentDir = "content/en"
-  [languages.de]
-    title = "Vanessa & Jaime's Hochzeit"
-    weight = 2
-    contentDir = "content/de"
   [languages.es]
-    title = "Boda de Vanessa & Jaime"
+    title = "V&J"
     weight = 2
     contentDir = "content/es"
-
+  [languages.de]
+    title = "V&J"
+    weight = 2
+    contentDir = "content/de"
 
 [sitemap]
   changefreq = "monthly"
@@ -44,4 +43,4 @@ canonifyURLs = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
 
-
+[[params.ananke_socials]]
