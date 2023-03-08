@@ -2,73 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/blog/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/blog/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/updates/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <loc>https://vschwerdt.github.io/web_weeding/de/info/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/updates/"
+                href="https://vschwerdt.github.io/web_weeding/info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/updates/"
+                href="https://vschwerdt.github.io/web_weeding/es/info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/updates/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/about/"
+                href="https://vschwerdt.github.io/web_weeding/de/info/"
                 />
   </url><url>
     <loc>https://vschwerdt.github.io/web_weeding/de/categories/</loc>
@@ -90,6 +40,25 @@
                 href="https://vschwerdt.github.io/web_weeding/de/categories/"
                 />
   </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/de/info/faq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web_weeding/info/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/info/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/info/faq/"
+                />
+  </url><url>
     <loc>https://vschwerdt.github.io/web_weeding/de/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -109,84 +78,42 @@
                 href="https://vschwerdt.github.io/web_weeding/de/contact/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/updates/faq/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/de/info/locations/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/updates/faq/"
+                href="https://vschwerdt.github.io/web_weeding/info/locations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/info/locations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/updates/faq/"
+                href="https://vschwerdt.github.io/web_weeding/de/info/locations/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/updates/locations/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/de/info/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/updates/locations/"
+                href="https://vschwerdt.github.io/web_weeding/info/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/updates/locations/"
+                href="https://vschwerdt.github.io/web_weeding/es/info/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/updates/locations/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/updates/schedule/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/updates/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/updates/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/updates/schedule/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/blog/post-1/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/blog/post-1/"
-                />
-  </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/blog/post-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/blog/post-2/"
+                href="https://vschwerdt.github.io/web_weeding/de/info/schedule/"
                 />
   </url><url>
     <loc>https://vschwerdt.github.io/web_weeding/de/tags/</loc>
@@ -208,23 +135,42 @@
                 href="https://vschwerdt.github.io/web_weeding/de/tags/"
                 />
   </url><url>
-    <loc>https://vschwerdt.github.io/web_weeding/de/updates/sleep/</loc>
+    <loc>https://vschwerdt.github.io/web_weeding/de/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vschwerdt.github.io/web_weeding/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://vschwerdt.github.io/web_weeding/es/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://vschwerdt.github.io/web_weeding/de/updates/sleep/"
+                href="https://vschwerdt.github.io/web_weeding/de/"
+                />
+  </url><url>
+    <loc>https://vschwerdt.github.io/web_weeding/de/info/sleep/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vschwerdt.github.io/web_weeding/info/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://vschwerdt.github.io/web_weeding/es/info/sleep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://vschwerdt.github.io/web_weeding/de/info/sleep/"
                 />
   </url>
 </urlset>

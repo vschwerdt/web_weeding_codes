@@ -1,14 +1,15 @@
 ---
-title: Contact
+title: Contacto
 featured_image: "images/notebook.jpg"
-omit_header_text: true
-description: I'd love to hear from you
+description: ¡Escríbenos! 
 type: page
 menu: main
 
 ---
 
+{{< figure src="/images/we1.jpg" title="" >}}
 
-Feel free to write me with any suggestion, question, remark, ...
+Porfa comunicanos lo antes posible si puedes asistir a la boda y cuántas personas traes. Estaremos encantados de verte allí :blush:  
+Aqui puedes compartir cualquier restricción dietética, alergias, sentimientos o simplemente cuentanos tu vida.
 
 {{< form-contact action="https://formspree.io/f/xoqreqpp"  >}}

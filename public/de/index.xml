@@ -1,80 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vanessa &amp; Jaime&#39;s Hochzeit on V&amp;J</title>
+    <title>Vanessas und Jaimes Hochzeit on V&amp;J</title>
     <link>https://vschwerdt.github.io/web_weeding/de/</link>
-    <description>Recent content in Vanessa &amp; Jaime&#39;s Hochzeit on V&amp;J</description>
+    <description>Recent content in Vanessas und Jaimes Hochzeit on V&amp;J</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vschwerdt.github.io/web_weeding/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vschwerdt.github.io/web_weeding/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title>FAQs</title>
+      <link>https://vschwerdt.github.io/web_weeding/de/info/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vschwerdt.github.io/web_weeding/de/info/faq/</guid>
+      <description>Was soll ich anziehen? 👗 Dresscode für das Standesamt: Formell.
+Polterabend: Kommt gerne in Kleidern und Anzügen, aber legere Kleidung ist auch okay.
+Wie ist das Wetter? ☀️ Jährlicher Durchschnitt liegt bei 20°C tagsüber und ca. 15°C am Abend. Am besten bringst du eine leichte Jacke mit. Bild aufgenommen am 25. August 2022 Was kann ich in Wintzingerode/Worbis machen? ⛰️ Wenn du gerne in der Natur bist, kannst du die vielen Wanderwege rund um Wintzingerode nutzen.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
       <link>https://vschwerdt.github.io/web_weeding/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vschwerdt.github.io/web_weeding/de/contact/</guid>
-      <description>JAIME DOES THIS
-Feel free to write me with any suggestion, question, remark, &amp;hellip;
-Dein NameEmail AdresseEine Email Adresse wird benötigt.Nachricht</description>
-    </item>
-    
-    <item>
-      <title>FAQs</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/updates/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/updates/faq/</guid>
-      <description>What to wear? Dresscode for the Cityhall is formal. We&amp;rsquo;d recommend dresses for women and suits for men. Polterabend is going to be informal. We recommend to bring a jacket, as it might get a bit chilly in the evening.
-Where to fly to? Leipzig Airport (LEJ) is the closest airport. From there you can get to Wintzingerode/Worbis by car. It&amp;rsquo;s also possible to take a plane to Frankfurt (FRA) and then catch a train to Göttingen.</description>
+      <description> Bitte lasst uns so bald wie möglich wissen, ob ihr zur Hochzeit kommt und wie viele Personen ihr mitbringt. Wir freuen uns darauf, euch dort zu sehen! 😊
+Bitte teilt uns auch eventuelle Diätvorschriften, Allergien &amp;hellip;mit. Dein NameEmail AdresseEine Email Adresse wird benötigt.Nachricht</description>
     </item>
     
     <item>
       <title>Locations</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/updates/locations/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/info/locations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web_weeding/de/updates/locations/</guid>
-      <description>City Hall wedding info here
-How to get to the City Hall? info here
-Polterabend post wedding info here
-How to get to the Polterabend? info here</description>
+      <guid>https://vschwerdt.github.io/web_weeding/de/info/locations/</guid>
+      <description>Rathaus Hochzeit Rathaus Rentamt
+Rossmarkt 1
+37339 Leinefelde-Worbis (Worbis)
+Google Maps
+Wie kommt man zum Standesamt? Falls du in Worbis übernachtest, kannst du das Standesamt gut fußläufig erreichen. Normalerweise nimmt es ca. 5-15 Minuten in Anspruch, je nachdem, wo du dich aufhälst. Wenn du in Wintzingerode Platz gefunden hast, kommst du am besten mit dem Auto nach Worbis (5min). Es ist auch möglich sich das Auto mit mehreren Personen zu teilen (Sprecht uns gerne an).</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/updates/schedule/</link>
+      <link>https://vschwerdt.github.io/web_weeding/de/info/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web_weeding/de/updates/schedule/</guid>
-      <description>City Hall Wedding info here
-Polterabend info here</description>
+      <guid>https://vschwerdt.github.io/web_weeding/de/info/schedule/</guid>
+      <description>Standesamt Datum: 25.08.2023
+Treffen vor dem Standesamt: 13.45 Uhr
+Beginn Zeremonie: 14.00 Uhr
+Ende Zeremonie: Gegen 14.30 Uhr
+Danach: Zeit für Drinks, Bilder etc. bis spätestens 15.30 Uhr
+Vor dem Polterabend: Geht nach Hause, macht euch noch ein bisschen frisch, schlaft vor.
+Wir sehen uns dann ausgeruht und feierbereit später.
+Polterabend Start: 18.00 Uhr
+Für Essen und Trinken ist gesorgt.
+Falls ihr Unverträglichkeiten habt, Vegan/Vegetarisch oder Ähnliches seid, lasst es uns bitte frühzeitig wissen!</description>
     </item>
     
     <item>
-      <title>sdfsdfsdf</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/blog/post-1/</link>
+      <title>Wo man schlafen kann?</title>
+      <link>https://vschwerdt.github.io/web_weeding/de/info/sleep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vschwerdt.github.io/web_weeding/de/blog/post-1/</guid>
-      <description>asdasdasd</description>
-    </item>
-    
-    <item>
-      <title>sdfsdfsdf</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/blog/post-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/blog/post-2/</guid>
-      <description>asdasdasd</description>
-    </item>
-    
-    <item>
-      <title>Where to stay?</title>
-      <link>https://vschwerdt.github.io/web_weeding/de/updates/sleep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vschwerdt.github.io/web_weeding/de/updates/sleep/</guid>
-      <description>info here info here</description>
+      <guid>https://vschwerdt.github.io/web_weeding/de/info/sleep/</guid>
+      <description>Vorgeschlagene Orte zum Übernachten 😴 Hotel 3 Rosen in Worbis (Am nächsten zum Cityhall): Link EICstay in Worbis: Link Burg Bodenstein: Link Gaststätte zur Linde in Wintzingerode (Am nächsten zum Polterabend): Link Leinotel in Leinefelde: Link Victor&amp;rsquo;s in Teistungen: Link Fragt uns wenn ihr nähere Informationen braucht!</description>
     </item>
     
   </channel>

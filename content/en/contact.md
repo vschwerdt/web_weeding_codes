@@ -1,15 +1,14 @@
 ---
 title: Contact
 featured_image: "images/notebook.jpg"
-omit_header_text: true
-description: I'd love to hear from you
+description: Write us!
 type: page
 menu: main
 
 ---
 
-JAIME DOES THIS
+{{< figure src="/images/we1.jpg" title="" >}}
 
-Feel free to write me with any suggestion, question, remark, ...
-
+Please let us know as soon as possible if you can make it to the wedding and how many people will be joining you. We are looking forward to seeing you there! :blush:   
+Also feel free to share any dietary restrictions, allergies, feelings or just tell us about your day.
 {{< form-contact action="https://formspree.io/f/xoqreqpp"  >}}
